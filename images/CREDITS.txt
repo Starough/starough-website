@@ -1,5 +1,4 @@
-Photos from Unsplash (free to use under the Unsplash License, https://unsplash.com/license). Credit not required.
-home-hero.jpg       https://unsplash.com/photos/a-black-and-white-photo-of-a-diamond-1Ar-qd7-uMA
+Photos from Unsplash (Unsplash License, https://unsplash.com/license) and Pexels (Pexels License, https://www.pexels.com/license/). Free for business use; credit not required.
 about-antwerp.jpg   https://unsplash.com/photos/grand-ornate-building-with-an-arched-glass-roof-and-people-VB7AYnCu8uQ
 about-shapes.jpg    https://unsplash.com/photos/diamonds-of-various-shapes-are-on-a-black-surface-iqD7nCuYFVM
 stones-row.jpg      https://unsplash.com/photos/diamonds-on-reflective-black-surface-gb0BZGae1Nk
@@ -9,3 +8,5 @@ card-melee.jpg      https://unsplash.com/photos/diamonds-shine-on-a-rustic-woode
 card-fancy.jpg      https://unsplash.com/photos/collection-of-sparkling-diamonds-on-a-dark-background-I5UuPHNQDNs
 contact-antwerp.jpg https://unsplash.com/photos/ornate-historic-buildings-line-a-european-city-square-lTah-RYbXWM
 contact-hk.jpg      https://unsplash.com/photos/4vf1KEkD7Gc
+home-rough.jpg      https://unsplash.com/photos/a-clear-uncut-diamond-crystal-on-a-white-background-CTAnLnPB4wU
+home-polished.jpg   https://www.pexels.com/photo/diamond-on-white-surface-4997548/ (Pexels)
